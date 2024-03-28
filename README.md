@@ -32,7 +32,11 @@ Este conjunto de instruções SQL tem como objetivo realizar o processamento de 
 
     - As 10 operadoras com maiores despesas em "EVENTOS/ SINISTROS CONHECIDOS OU AVISADOS DE ASSISTÊNCIA A SAÚDE MEDICO HOSPITALAR" no último trimestre.
     
+    ![resultado_1](https://github.com/leonunes17/Teste-Banco-de-Dados/assets/96439824/d3660db1-87d3-4e4c-ba6d-120076576f85)
 
     - As 10 operadoras com maiores despesas nessa categoria no último ano.
+ 
+    ![resultado_2](https://github.com/leonunes17/Teste-Banco-de-Dados/assets/96439824/28482e1c-33b7-4078-ad21-41c44f5af04c)
+
 
 Este readme fornece uma visão geral do processo de processamento de dados contábeis e análise realizado pelo código fornecido. Certifique-se de ajustar os caminhos dos arquivos CSV e adaptar as consultas SQL conforme necessário para o seu ambiente específico.
